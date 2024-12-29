@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
+To implement  SISO Shift Register using verilog and validating their functionality using their functional tables 
 
 **SOFTWARE REQUIRED:**
 
